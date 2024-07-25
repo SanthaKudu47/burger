@@ -1,0 +1,9 @@
+#light {
+    width: 0px;
+    transition: width 250ms;
+    transition-timing-function: ease-out;
+}
+
+#nav_button:hover #light{
+    width: 100%;
+}
