@@ -9,11 +9,14 @@ export default {
         mainFontDark: "#260D00",
         mainFontLight: "#636363",
         mainYellowLight: "#FCBD11",
+        yellowVariant1: "#F5B80F",
+        contactNumber: "#B5ABAB",
       },
 
       fontFamily: {
         baseFont: "Lobster, sans-serif",
-        subTitleFont:"Literata, serif"
+        subTitleFont: "Literata, serif",
+        cardFont: "Alata, sans-serif",
       },
 
       fontWeight: {
